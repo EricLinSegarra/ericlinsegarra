@@ -88,6 +88,12 @@ I'm a **Data Analyst** with 6+ years of experience in banking, focused on:
 🔎 Open to Data Analyst / Risk Reporting roles in **Switzerland**  
 🔗 [LinkedIn](https://linkedin.com/in/elinsegarra) · [GitHub](https://github.com/ericlinsegarra)
 
+---
+
+## 🗂️ Certification Repository
+
+You can find the full list of my professional certificates (Coursera, DataCamp, FDP) here:  
+🔗 [github.com/EricLinSegarra/certifications](https://github.com/EricLinSegarra/certifications)
 
 
 <!--
