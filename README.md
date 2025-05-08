@@ -70,6 +70,8 @@ I'm a **Data Analyst** with 6+ years of experience in banking, focused on:
 - **FDP Charterholder** – *Financial Data Professional Institute (CAIA)*  
   Issued Dec 2020 · AI & ML applied to finance
 
+👉 **[View full certification list](https://github.com/EricLinSegarra/certifications)**
+
 ### 🧠 Coursera – DeepLearning.AI
 - TensorFlow Developer Specialization
 - NLP, CNNs & Time Series with TensorFlow
