@@ -60,10 +60,10 @@ I'm a **Data Analyst** with 6+ years of experience in banking, focused on:
 ## 🎓 Education & Certifications
 
 ### 🎓 Formal Education
-- **MSc in Financial Mathematics** – *UAB*  
+- **MSc in Financial Mathematics** – *UAB* *(2014)*  
   Final project: risk reporting automation with VBA, derivatives pricing, SAS analytics.
 
-- **BSc in Economics & Management** – *UAB*  
+- **BSc in Economics & Management** – *UAB* *(2012)*  
   Focus on quantitative finance, statistics, and econometrics.
 
 ### 📜 Certifications
